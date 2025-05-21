@@ -6,11 +6,11 @@
 
 ## 目次
 
-1.  [VS Code (Visual Studio Code) の解説](#1-VS-Code-(Visual-Studio-Code)-の解説)
-2.  [Linuxコマンドの基本（ファイル・フォルダ操作）](#2-Linuxコマンドの基本（ファイル・フォルダ操作)) 
-4.  [Dockerの基本的な使い方（Dockerfileなし）](https://www.google.com/search?q=%233-docker%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9dockerfile%E3%81%AA%E3%81%97)
-5.  [GitHubの使い方](https://www.google.com/search?q=%234-github%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)
-6.  [Git操作の基本用語まとめ](https://www.google.com/search?q=%235-git%E6%93%8D%E4%BD%9C%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E%E3%81%BE%E3%81%A8%E3%82%81)
+1. [VS Code (Visual Studio Code) の解説](#1-vs-code-visual-studio-code-の解説)
+2. [Linuxコマンドの基本（ファイル・フォルダ操作）](#2-linuxコマンドの基本ファイルフォルダ操作)
+3. [Dockerの基本的な使い方（Dockerfileなし）](#3-dockerの基本的な使い方dockerfileなし)
+4. [GitHubの使い方](#4-githubの使い方)
+5. [Git操作の基本用語まとめ](#5-git操作の基本用語まとめ)
 
 -----
 
