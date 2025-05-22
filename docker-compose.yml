@@ -1,0 +1,11 @@
+services:
+  app:
+    container_name: tutorial
+    build:
+      dockerfile: Docker/tutorial
+      context: .
+    volumes:
+      - ./game:/src/game
+      - ./sim:/src/sim
+      - ./app:/src/app
+    tty: true

@@ -1,0 +1,9 @@
+FROM node:latest
+WORKDIR /src
+RUN mkdir sim game app
+RUN npm init -y
+RUN npm install -g typescript eslint jsdoc
+RUN npx tsc --init
+RUN npx eslint --init
+RUN export PATH=$PATH:/src/node_modules/.bin
+# CMD ["/bin/bash"]
